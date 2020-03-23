@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Squirrel Hill Thai Restaurants</name>
+    <Style id="icon-1899-880E4F-nodesc-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-nodesc-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Thai Tapas And Wine Bar</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.9230732,40.4375151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Took Took 98 (Thai Street Food Restaurant)</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.9231289,40.4342014,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Silk Elephant</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.9231221,40.4375175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bangkok Balcony</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.9211554,40.4379276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Thai & Noodle Outlet]]></name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.9223683,40.4381635,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Everyday Noodles</name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.9201019,40.4382538,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Kiin Lao & Thai Eatery]]></name>
+      <styleUrl>#icon-1899-880E4F-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.9211285,40.4377594,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
