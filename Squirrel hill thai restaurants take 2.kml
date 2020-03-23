@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Thai Restaurants in Squirrel Hill Borough of Pittsburgh, PA</name>
+    <description/>
+    <Style id="icon-1499-880E4F-labelson-nodesc">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Folder>
+      <name>Squirrel Hill Thai Restaurants</name>
+      <Placemark>
+        <name>Thai Tapas And Wine Bar</name>
+        <styleUrl>#icon-1499-880E4F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9230732,40.4375151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Took Took 98 (Thai Street Food Restaurant)</name>
+        <styleUrl>#icon-1499-880E4F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9231289,40.4342014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silk Elephant</name>
+        <styleUrl>#icon-1499-880E4F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9231221,40.4375175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bangkok Balcony</name>
+        <styleUrl>#icon-1499-880E4F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9211554,40.4379276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Thai & Noodle Outlet]]></name>
+        <styleUrl>#icon-1499-880E4F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9223683,40.4381635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Everyday Noodles</name>
+        <styleUrl>#icon-1499-880E4F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9201019,40.4382538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kiin Lao & Thai Eatery]]></name>
+        <styleUrl>#icon-1499-880E4F-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -79.9211285,40.4377594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
